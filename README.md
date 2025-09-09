@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Daniel Ince
-- ✨ API Support Engineer @ AssemblyAI
+- ✨ Applied AI Engineer @ AssemblyAI
 - 📫 dince@assemblyai.com
 
